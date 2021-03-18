@@ -34,7 +34,6 @@ const Coin = ({
         </div>
       </div>
     </div>
-    fsdfdsf
   );
 };
 
