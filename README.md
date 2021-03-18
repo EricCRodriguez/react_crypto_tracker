@@ -1,3 +1,7 @@
+A Crypto Currenciy tracker built with React Js, and utilizing Axios and a public API.
+Here is the the link to the site: https://mycrypyotracker.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
